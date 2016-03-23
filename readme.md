@@ -7,6 +7,7 @@ Usage and requirements:
 Solution works on a default install CentOS 7 installation with puppet installed.
 
 Install the following puppet modules or use the full tgz (assumes puppet is on the path):
+
 1. sudo puppet module install jfryman-nginx
 2. sudo puppet module install puppetlabs/vcsrepo
 3. sudo puppet module install puppetlabs/firewall
